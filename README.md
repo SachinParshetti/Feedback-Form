@@ -96,8 +96,9 @@ GitHub Pages (via gh-pages)
 
  Admin dashboard to review feedback
 
-🧑‍💻 Author
-Sachin Parashetti
-GitHub – [@SachinParashetti](https://github.com/SachinParshetti)
-LinkedIn – [sachin-parashetti](https://www.linkedin.com/in/sachin-parashetti-99b255259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ 
+## 🧑‍💻 Author
 
+**Sachin Parashetti**  
+- 💻 GitHub: [@SachinParashetti](https://github.com/SachinParashetti)  
+- 🔗 LinkedIn: [sachin-parashetti](https://www.linkedin.com/in/sachin-parashetti-99b255259)
